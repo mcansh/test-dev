@@ -1,2 +1,3 @@
-export default function one(){
-  return "two!"}
+export default function one() {
+  return "two!";
+}
