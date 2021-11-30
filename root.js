@@ -3,5 +3,5 @@ module.exports = {
   BAZ: "BAX",
   BAR: "💿",
   root: true,
-  "shhs": "vhsfshfgs"
+  shhs: "vhsfshfgs",
 };
