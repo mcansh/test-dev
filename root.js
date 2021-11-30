@@ -2,5 +2,6 @@ module.exports = {
   foo: "BAR",
   BAZ: "BAX",
   BAR: "💿",
-  root: true
+  root: true,
+  "shhs": "vhsfshfgs"
 };
