@@ -5,4 +5,5 @@ module.exports = {
   root: true,
   shhs: "vhsfshfgs",
   fhsshgshgghhs: "hufsfhsfshg",
+  "hshsghgahdash": "shfvhvdhfgdffgd"
 };
