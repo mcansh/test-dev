@@ -1,1 +1,1 @@
-module.exports={got: "you"}
+module.exports = { got: "you" };
