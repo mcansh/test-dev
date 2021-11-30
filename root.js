@@ -4,4 +4,5 @@ module.exports = {
   BAR: "💿",
   root: true,
   shhs: "vhsfshfgs",
+  "fhsshgshgghhs": "hufsfhsfshg"
 };
