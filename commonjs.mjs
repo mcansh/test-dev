@@ -1,2 +1,3 @@
-export default function esm(){
-return "cat"}
+export default function esm() {
+  return "cat";
+}
